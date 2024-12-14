@@ -1,0 +1,102 @@
+[
+    {
+      "category": "Lanches",
+      "items": [
+        {
+          "name": "Hambúrguer",
+          "description": "Pão, carne, queijo e alface",
+          "price": 15.00,
+          "wait_time": "20 minutos"
+        },
+        {
+          "name": "Sanduíche",
+          "description": "Pão integral, peito de peru, queijo",
+          "price": 10.00,
+          "wait_time": "10 minutos"
+        },
+        {
+          "name": "Wrap de Frango",
+          "description": "Wrap, frango grelhado, alface, tomate e molho especial",
+          "price": 18.00,
+          "wait_time": "15 minutos"
+        },
+        {
+          "name": "Taco Mexicano",
+          "description": "Taco com carne moída, queijo, alface e molho",
+          "price": 12.00,
+          "wait_time": "20 minutos"
+        },
+        {
+          "name": "Salada",
+          "description": "Alface, tomate, pepino, cenoura e molho",
+          "price": 8.00,
+          "wait_time": "5 minutos"
+        }
+      ]
+    },
+    {
+      "category": "Sucos",
+      "items": [
+        {
+          "name": "Suco de Laranja",
+          "description": "Laranja natural",
+          "price": 7.00,
+          "wait_time": "5 minutos"
+        },
+        {
+          "name": "Suco de Abacaxi",
+          "description": "Abacaxi natural com hortelã",
+          "price": 8.00,
+          "wait_time": "5 minutos"
+        },
+        {
+          "name": "Suco de Morango",
+          "description": "Morango natural com limão",
+          "price": 9.00,
+          "wait_time": "5 minutos"
+        },
+        {
+          "name": "Suco Verde",
+          "description": "Couve, pepino, maçã verde e limão",
+          "price": 10.00,
+          "wait_time": "5 minutos"
+        },
+        {
+          "name": "Suco de Melancia",
+          "description": "Melancia natural",
+          "price": 6.00,
+          "wait_time": "5 minutos"
+        }
+      ]
+    },
+    {
+      "category": "Doces",
+      "items": [
+        {
+          "name": "Brownie",
+          "description": "Brownie de chocolate com pedaços de nozes",
+          "price": 6.00,
+          "wait_time": "10 minutos"
+        },
+        {
+          "name": "Pudim",
+          "description": "Pudim de leite condensado com caramelo",
+          "price": 5.00,
+          "wait_time": "20 minutos"
+        },
+        {
+          "name": "Torta de Limão",
+          "description": "Torta de limão com merengue",
+          "price": 7.00,
+          "wait_time": "15 minutos"
+        },
+        {
+          "name": "Cocada",
+          "description": "Cocada cremosa de coco",
+          "price": 4.00,
+          "wait_time": "10 minutos"
+        }
+      ]
+    }
+  ]
+  
